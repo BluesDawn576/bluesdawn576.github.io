@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 44.135036,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.224316,
+      "\u001b]777;notify;Command completed;/etc/init.d/bt default\u0007\u001b]0;root@localhost:~\u0007\u001b]7;file://localhost.localdomain/root\u0007\u001b[?1034h[root@localhost ~]# "
+    ],
+    [
+      2.496952,
+      "y"
+    ],
+    [
+      0.063865,
+      "u"
+    ],
+    [
+      0.207739,
+      "m"
+    ],
+    [
+      0.447922,
+      " "
+    ],
+    [
+      0.480186,
+      "i"
+    ],
+    [
+      0.223472,
+      "n"
+    ],
+    [
+      0.192085,
+      "s"
+    ],
+    [
+      0.23202,
+      "t"
+    ],
+    [
+      0.224138,
+      "a"
+    ],
+    [
+      0.111873,
+      "l"
+    ],
+    [
+      0.128329,
+      "l"
+    ],
+    [
+      0.207814,
+      " "
+    ],
+    [
+      0.560479,
+      "j"
+    ],
+    [
+      0.223451,
+      "q"
+    ],
+    [
+      0.416812,
+      "\r\n"
+    ],
+    [
+      0.38166,
+      "Loaded plugins: fastestmirror, langpacks\r\n"
+    ],
+    [
+      0.138161,
+      "Loading mirror speeds from cached hostfile\r\n"
+    ],
+    [
+      9.570007,
+      " * base: mirrors.aliyun.com\r\n * epel: mirrors.yun-idc.com\r\n * extras: mirrors.aliyun.com\r\n * updates: mirrors.aliyun.com\r\n"
+    ],
+    [
+      0.491131,
+      "Resolving Dependencies\r\n--> Running transaction check\r\n---> Package jq.x86_64 0:1.6-2.el7 will be installed\r\n"
+    ],
+    [
+      0.109385,
+      "--> Processing Dependency: libonig.so.5()(64bit) for package: jq-1.6-2.el7.x86_64\r\n"
+    ],
+    [
+      1.520295,
+      "--> Running transaction check\r\n---> Package oniguruma.x86_64 0:6.8.2-1.el7 will be installed\r\n"
+    ],
+    [
+      1.032532,
+      "--> Finished Dependency Resolution\r\n"
+    ],
+    [
+      0.977328,
+      "\r\nDependencies Resolved\r\n\r\n================================================================================\r\n Package            Arch            Version                 Repository     Size\r\n================================================================================\r\nInstalling:\r\n jq                 x86_64          1.6-2.el7               epel          167 k\r\nInstalling for dependencies:\r\n oniguruma          x86_64          6.8.2-1.el7             epel          181 k\r\n\r\nTransaction Summary\r\n================================================================================\r\nInstall  1 Package (+1 Dependent package)\r\n\r\nTotal download size: 348 k\r\nInstalled size: 1.0 M\r\nIs this ok [y/d/N]: "
+    ],
+    [
+      1.130834,
+      "y"
+    ],
+    [
+      0.343729,
+      "\r\n"
+    ],
+    [
+      0.009762,
+      "Downloading packages:\r\n"
+    ],
+    [
+      0.503282,
+      "\r(1/2): jq-1.6-2.el7.x86_64 0% [                 ]  0.0 B/s |    0 B   --:-- ETA \r"
+    ],
+    [
+      0.310059,
+      "\r(1/2): jq-1.6-2.el7.x86_64 36% [=====-          ]  0.0 B/s | 128 kB   --:-- ETA \r"
+    ],
+    [
+      0.057752,
+      "\r(1/2): jq-1.6-2.el7.x86_64.rpm                             | 167 kB   00:00     \r\n"
+    ],
+    [
+      0.142594,
+      "\r(2/2): oniguruma-6.8.2-1.el7.x86_64.rpm                    | 181 kB   00:00     \r\n"
+    ],
+    [
+      0.032049,
+      "--------------------------------------------------------------------------------\r\nTotal                                              333 kB/s | 348 kB  00:01     \r\nRunning transaction check\r\n"
+    ],
+    [
+      0.033324,
+      "Running transaction test\r\n"
+    ],
+    [
+      12.036742,
+      "Transaction test succeeded\r\nRunning transaction\r\n"
+    ],
+    [
+      1.133868,
+      "\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [                             ] 1/2"
+    ],
+    [
+      0.061196,
+      "\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [##                           ] 1/2\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [#####                        ] 1/2"
+    ],
+    [
+      0.009117,
+      "\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [########                     ] 1/2\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [###########                  ] 1/2\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [#############                ] 1/2\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [################             ] 1/2"
+    ],
+    [
+      0.011031,
+      "\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [###################          ] 1/2\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [######################       ] 1/2\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [#########################    ] 1/2"
+    ],
+    [
+      0.00716,
+      "\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [###########################  ] 1/2\r  Installing : oniguruma-6.8.2-1.el7.x86_64 [############################ ] 1/2\r  Installing : oniguruma-6.8.2-1.el7.x86_64                                 1/2 \r\n"
+    ],
+    [
+      2.363732,
+      "\r  Installing : jq-1.6-2.el7.x86_64 [                                      ] 2/2\r  Installing : jq-1.6-2.el7.x86_64 [##                                    ] 2/2\r  Installing : jq-1.6-2.el7.x86_64 [########                              ] 2/2\r  Installing : jq-1.6-2.el7.x86_64 [##############                        ] 2/2"
+    ],
+    [
+      0.00982,
+      "\r  Installing : jq-1.6-2.el7.x86_64 [#####################                 ] 2/2\r  Installing : jq-1.6-2.el7.x86_64 [###########################           ] 2/2\r  Installing : jq-1.6-2.el7.x86_64 [#################################     ] 2/2"
+    ],
+    [
+      0.00737,
+      "\r  Installing : jq-1.6-2.el7.x86_64 [##################################    ] 2/2\r  Installing : jq-1.6-2.el7.x86_64 [##################################### ] 2/2\r  Installing : jq-1.6-2.el7.x86_64                                          2/2 \r\n"
+    ],
+    [
+      0.227165,
+      "\r  Verifying  : oniguruma-6.8.2-1.el7.x86_64                                 1/2 \r\n"
+    ],
+    [
+      0.02842,
+      "\r  Verifying  : jq-1.6-2.el7.x86_64                                          2/2 \r\n"
+    ],
+    [
+      2.545176,
+      "\r\nInstalled:\r\n  jq.x86_64 0:1.6-2.el7                                                         \r\n\r\nDependency Installed:\r\n  oniguruma.x86_64 0:6.8.2-1.el7                                                \r\n\r\nComplete!\r\n"
+    ],
+    [
+      0.161112,
+      "\u001b]777;notify;Command completed;yum install jq\u0007\u001b]0;root@localhost:~\u0007\u001b]7;file://localhost.localdomain/root\u0007[root@localhost ~]# "
+    ],
+    [
+      1.557612,
+      "j"
+    ],
+    [
+      0.303831,
+      "q"
+    ],
+    [
+      0.432766,
+      "\r\n"
+    ],
+    [
+      0.002663,
+      "jq - commandline JSON processor [version 1.6]\r\n\r\nUsage:\tjq [options] <jq filter> [file...]\r\n\tjq [options] --args <jq filter> [strings...]\r\n\tjq [options] --jsonargs <jq filter> [JSON_TEXTS...]\r\n\r\njq is a tool for processing JSON inputs, applying the given filter to\r\nits JSON text inputs and producing the filter's results as JSON on\r\nstandard output.\r\n\r\nThe simplest filter is ., which copies jq's input to its output\r\nunmodified (except for formatting, but note that IEEE754 is used\r\nfor number representation internally, with all that that implies).\r\n\r\nFor more advanced filters see the jq(1) manpage (\"man jq\")\r\nand/or https://stedolan.github.io/jq\r\n\r\nExample:\r\n\r\n\t$ echo '{\"foo\": 0}' | jq .\r\n\t{\r\n\t\t\"foo\": 0\r\n\t}\r\n\r\nFor a listing of options, use jq --help.\r\n"
+    ],
+    [
+      0.010671,
+      "\u001b]777;notify;Command completed;jq\u0007\u001b]0;root@localhost:~\u0007\u001b]7;file://localhost.localdomain/root\u0007[root@localhost ~]# "
+    ]
+  ]
+}
